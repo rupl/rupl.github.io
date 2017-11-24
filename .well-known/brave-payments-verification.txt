@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: rupl.github.io
+Token: 5831b252f7c06e0e72f9ebf84e064f61383697dc92df398ceb94cfc6f2995955
