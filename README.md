@@ -6,3 +6,4 @@ You're at the top-level directory of <a rel="me" href="https://github.com/rupl/"
 * [Fun and Games with CSS](https://github.com/rupl/fun-games-css/)
 * [Intro to Houdini](https://github.com/rupl/houdini/)
 * [Frontend Testing](https://github.com/rupl/frontend-testing/)
+* [Feature Detection](https://github.com/rupl/feature-detection/)
